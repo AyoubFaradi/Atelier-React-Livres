@@ -140,7 +140,7 @@ npm run preview
 ![Screen 6](screens/6.png)
 ![Screen 7](screens/7.png)
 
-### 9.2 Derniers screens d'affichage
+### 9.2 Affichage
 ![Affichage 1](screens/affichage1.png)
 ![Affichage 2](screens/affichage2.png)
 
