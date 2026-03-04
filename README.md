@@ -131,11 +131,7 @@ npm run preview
 
 ## 9. Captures d'ecran
 
-### 9.1 Derniers screens d'affichage
-![Affichage 1](screens/affichage1.png)
-![Affichage 2](screens/affichage2.png)
-
-### 9.2 Historique des captures
+### 9.1 Historique des captures
 ![Screen 1](screens/1.png)
 ![Screen 2](screens/2.png)
 ![Screen 3](screens/3.png)
@@ -143,6 +139,10 @@ npm run preview
 ![Screen 5](screens/5.png)
 ![Screen 6](screens/6.png)
 ![Screen 7](screens/7.png)
+
+### 9.2 Derniers screens d'affichage
+![Affichage 1](screens/affichage1.png)
+![Affichage 2](screens/affichage2.png)
 
 ## 10. Conclusion
 Le projet atteint les objectifs du TP: comprendre les bases de React, structurer une interface en composants et utiliser les props proprement.
